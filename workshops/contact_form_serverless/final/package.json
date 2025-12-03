@@ -13,7 +13,7 @@
     "netlify-lambda": "^0.4.0"
   },
   "dependencies": {
-    "nodemailer": "^6.4.14",
+    "nodemailer": "^7.0.11",
     "sendmail": "^1.6.1"
   }
 }
